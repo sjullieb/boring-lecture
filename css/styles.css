@@ -1,12 +1,7 @@
-body{
-  background-color: pink;
-}
-.flashy{
-  color: red;
-  font-style: italic;
-}
-.best {
-  font-size: 40px;
-  font-family: sans-serif;
-
+.intro{
+    font-size: 20px;
+    border-width: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
 }
